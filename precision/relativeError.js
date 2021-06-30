@@ -10,4 +10,4 @@ const relativeError = (x, y) => {
 }
 
 
-module.exports = { positiveNormalized, relativeError }
+module.exports = { positiveNormalizedDoublePrecision, relativeError }
