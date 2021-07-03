@@ -1,3 +1,5 @@
+const binaryFloatValues = [0.01101, 1101100.10];
+
 const positionOfPoint = bin => bin.toString().indexOf('.');
 
 function binaryToDecimalConverter(binary) {
@@ -13,3 +15,5 @@ function binaryToDecimalConverter(binary) {
         return acc;
     }, 0)
 }
+
+const decimalResults = binaryFloatValues.map(bin => binaryToDecimalConverter(bin));
