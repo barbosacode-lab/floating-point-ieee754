@@ -48,11 +48,14 @@ output: 101.01
 
 - [📖USP](http://www.astro.iag.usp.br/~carciofi/AGA0503/apostila_cap03.pdf)
 
+- [📖nseiprogramar! - Matheus Hofstede](https://nseiprogramar.wordpress.com/2016/05/18/conversao-binario-decimal-com-ponto-virgula-flutuante/)
+
 - [📺YouTube Channel - Dias de Dev](https://www.youtube.com/watch?v=qeZloBkUf6M)
 
 - [📺YouTube Channel - Prof. Rex Medeiros ECT/UFRN](https://www.youtube.com/watch?v=OVuyMcnPKOc)
 
-- [📺YouTube Channel - Low Level Javascript](https://www.youtube.com/watch?v=wPBjd-vb9eI)<br><br>
+- [📺YouTube Channel - Low Level Javascript](https://www.youtube.com/watch?v=wPBjd-vb9eI)
+
 
 ## Feedback ⭐🚀
 Learning in Public Method in the quest for better results. 📈<br><br>
